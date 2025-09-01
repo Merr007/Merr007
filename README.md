@@ -4,7 +4,7 @@
 
 ## About Me
 * 🖥 Java Backend Developer
-* 👉 28 years old
+* 👉 29 years old
 * 🌱 Currently studying Spring Framework in depth
 * 🌎 Speak Russian, English and Deutsch
 * 🧠 Always curious about learning new technologies
